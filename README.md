@@ -62,8 +62,8 @@ TKY License · Last commit: [2026.3.21] · PRs Welcome · Stars [666]
 ### WAM
 | 论文标题 | 会议/期刊 | 年份 | 链接 |
 |---------|---------|------|------|
-| Fast-WAM: Do World Action Models Need Test-time Future Imagination?(https://arxiv.org/abs/2603.16666) | arXiv Preprint | 2026 |  |
-| Efficient-WAM: A 1B-Parameter World-Action Model with Low-Cost Future Imagination(https://arxiv.org/abs/2606.12345) | arXiv Preprint  |  2026  |     |
+| Fast-WAM: Do World Action Models Need Test-time Future Imagination?(https://arxiv.org/abs/2603.16666) | arXiv Preprint | 2026 | WAM的核心能力来源可能并不是future video prediction在推理阶段为action expert 提供指导，而是在训练阶段发挥proxy task 的作用，提供更丰富的监督信号，帮助 backbone 学到更好的表征。 |
+| Efficient-WAM: A 1B-Parameter World-Action Model with Low-Cost Future Imagination(https://arxiv.org/abs/2606.12345) | arXiv Preprint  |  2026  |  Efficient-WAM的核心是“以行动为中心”，模型不需要生成逼真的视频，只需提取未来场景中与任务相关的几何结构、运动趋势和接触线索，作为引导动作生成的紧凑信号即可。  |
 
 ---
 
