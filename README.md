@@ -47,7 +47,7 @@ TKY License · Last commit: [2026.3.21] · PRs Welcome · Stars [666]
 ## 论文分类
 
 ### VLA
-| 论文标题 | 会议/期刊 | 年份 | 链接 |
+| 论文标题 | 会议/期刊 | 年份 | 核心 |
 |---------|---------|------|------|
 | Beyond Attention Magnitude: Leveraging Inter-layer Rank Consistency for Efficient Vision-Language-Action Models( https://arxiv.org/abs/2603.24941) | arXiv Preprint | 2025 | 挑战高注意力 token 更重要的默认假设，用层间秩一致性 (Kendall τ) 动态判断何时该信任注意力，实现 78% token 削减的同时性能反升 6%。  |
 | SP-VLA: A  JOINT MODEL SCHEDULING AND TOKEN PRUNING APPROACH FOR VLA  MODEL  ACCELERATION(https://arxiv.org/abs/2506.12723) | ICLR | 2025 | 引入轻量级生成器，通过协同模型调度实现频率自适应执行；空间-语义双感知标记剪枝方法，将标记划分为空间型和语义型，并根据其双感知重要性进行剪枝以加速VLA推理 |
