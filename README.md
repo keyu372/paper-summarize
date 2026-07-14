@@ -49,7 +49,7 @@ TKY License · Last commit: [2026.3.21] · PRs Welcome · Stars [666]
 ### VLA
 | 论文标题 | 会议/期刊 | 年份 | 链接 |
 |---------|---------|------|------|
-| Beyond Attention Magnitude: Leveraging Inter-layer Rank Consistency for Efficient Vision-Language-Action Models | arXiv Preprint | 2025 | https://arxiv.org/abs/2603.24941[reference:0][reference:1] |
+| Beyond Attention Magnitude: Leveraging Inter-layer Rank Consistency for Efficient Vision-Language-Action Models( https://arxiv.org/abs/2603.24941) | arXiv Preprint | 2025 |  |
 | SP-VLA: A  JOINT MODEL SCHEDULING AND TOKEN PRUNING APPROACH FOR VLA  MODEL  ACCELERATION | ICLR | 2025 |   https://arxiv.org/abs/2506.12723   |
 | Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning | ICML | 2026 |  https://icml.cc/virtual/2026/poster/65503    |
 | Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models | EEE Robotics and Automation Letters   |  2026  | https://ieeexplore.ieee.org/abstract/document/11560913   |
