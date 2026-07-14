@@ -29,8 +29,8 @@ TKY License · Last commit: [2026.3.21] · PRs Welcome · Stars [666]
 
 - [简介](#简介)
 - [论文分类](#论文分类)
-  - [VLA](#子主题一)
-  - [WAM](#子主题二)
+  - [VLA](#VLA)
+  - [WAM](#WAM)
 - [数据集与工具](#数据集与工具)
 - [贡献指南](#贡献指南)
 - [引用](#引用)
@@ -62,8 +62,8 @@ TKY License · Last commit: [2026.3.21] · PRs Welcome · Stars [666]
 ### WAM
 | 论文标题 | 会议/期刊 | 年份 | 链接 |
 |---------|---------|------|------|
-| Fast-WAM: Do World Action Models Need Test-time Future Imagination? |  |  |  |
-| Efficient-WAM: A 1B-Parameter World-Action Model with Low-Cost Future Imagination|   |    |     |
+| Fast-WAM: Do World Action Models Need Test-time Future Imagination?(https://arxiv.org/abs/2603.16666) | arXiv Preprint | 2026 |  |
+| Efficient-WAM: A 1B-Parameter World-Action Model with Low-Cost Future Imagination(https://arxiv.org/abs/2606.12345) | arXiv Preprint  |  2026  |     |
 
 ---
 
