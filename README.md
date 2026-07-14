@@ -46,17 +46,24 @@ TKY License · Last commit: [2026.3.21] · PRs Welcome · Stars [666]
 
 ## 论文分类
 
-### 子主题一
-| 论文标题 | 会议/期刊 | 年份 | 代码 |
+### VLA
+| 论文标题 | 会议/期刊 | 年份 | 链接 |
 |---------|---------|------|------|
-| Beyond Attention Magnitude: Leveraging Inter-layer Rank Consistency for Efficient Vision-Language-Action Models | / | 2025 | [GitHub](链接) |
+| Beyond Attention Magnitude: Leveraging Inter-layer Rank Consistency for Efficient Vision-Language-Action Models | / | 2025 |  |
 | SP-VLA: A  JOINT MODEL SCHEDULING AND TOKEN PRUNING APPROACH FOR VLA  MODEL  ACCELERATION | ICLR | 2025 |                |
-|Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning | ICML | 2026 |        |
-
-### 子主题二
-| 论文标题 | 会议/期刊 | 年份 | 代码 |
+| Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning | ICML | 2026 |        |
+| Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models |    |     |     |
+| ACTION-AWARE DYNAMIC PRUNING FOR EFFICIENT VISION-LANGUAGE-ACTION MANIPULATION |      |       |        |
+| Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs |        |        |        |
+| LA4VLA: Learning to Act without Seeing via Language-Action Pretraining |       |      |      |
+| Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models | ICML | 2026 |      |
+| EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models|     |       |      |
+| The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning|   |     |      |
+### WAM
+| 论文标题 | 会议/期刊 | 年份 | 链接 |
 |---------|---------|------|------|
-| Paper Title | ICCV | 2024 | [GitHub](链接) |
+| Fast-WAM: Do World Action Models Need Test-time Future Imagination? |  |  |  |
+| Efficient-WAM: A 1B-Parameter World-Action Model with Low-Cost Future Imagination|   |    |     |
 
 ---
 
