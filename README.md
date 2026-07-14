@@ -1,15 +1,15 @@
-# Awesome-VLA-Project-Name
+# 轻量-VLA/WAM-Project
 
-**精选的 [VLA] 论文与资源合集。**
+
 
 ---
 
-### Awesome  
+
 TKY License · Last commit: [2026.3.21] · PRs Welcome · Stars [666]  
 
 ---
 
-- 正在探索 [如具身智能 VLA/轻量化VLA] 希望这份合集对你的研究有所帮助。  
+- 正在探索 [如具身智能 VLA/轻量化VLA/轻量WAM] 希望这份合集对你的研究有所帮助。  
   如果你喜欢这个项目，欢迎 🎉 收藏本仓库并与伙伴分享。我们热忱欢迎社区贡献！
 
 ---
@@ -40,7 +40,7 @@ TKY License · Last commit: [2026.3.21] · PRs Welcome · Stars [666]
 
 ## 简介
 
-本仓库提供了一份全面且持续更新的 [VLA/轻量VLA] 论文与资源列表，旨在帮助研究人员快速了解该方向的核心进展与前沿动态。
+本仓库提供了一份全面且持续更新的 [VLA/轻量VLA/轻量WAM] 论文与资源列表，旨在帮助研究人员快速了解该方向的核心进展与前沿动态。
 
 ---
 
@@ -56,7 +56,7 @@ TKY License · Last commit: [2026.3.21] · PRs Welcome · Stars [666]
 | ACTION-AWARE DYNAMIC PRUNING FOR EFFICIENT VISION-LANGUAGE-ACTION MANIPULATION( https://iclr.cc/virtual/2026/poster/10008304) |   ICLR   |  2026     |  VLA-ADP是一种即插即用的剪枝框架，它将基于文本的预测性剪枝与动作感知动态策略相结合，在保持可靠性的前提下加速VLA推理。|
 | Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs(https://arxiv.org/abs/2605.13778) |  arXiv Preprint     |    2026    |   提出了一种推测性推理框架：通过引入轻量级草稿生成模型并借助主模型的动作专家模块进行并行验证，同时配备相位感知回退机制（必要时可切换至完整推理流程），该框架的动作规划相比于完整推理，所需的计算量大大减少    |
 | LA4VLA: Learning to Act without Seeing via Language-Action Pretraining(https://arxiv.org/abs/2606.27295) |    arXiv Preprint   |  2026    |     LA4VLA 框架，通过从现有演示数据中构建不依赖视觉的原子指令-动作数据集 LA-33K 进行语言-动作预训练，使模型建立了语言与动作的关联，提升了 VLA 模型在模拟与真实场景中的性能、跨架构迁移能力和视觉鲁棒性。   |
-| Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models( https://arxiv.org/abs/2602.00780) | ICML | 2026 |     |
+| Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models( https://arxiv.org/abs/2602.00780) | ICML | 2026 |   Eco-VLA根据环境变化动态剪枝模型参数，并通过在动作生成的同时并行调度剪枝策略的方法，确保剪枝策略对延迟的影响可忽略不计。  |
 | EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models(https://proceedings.neurips.cc/) |   NeurIPS  |  2025     |      |
 | The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning(https://arxiv.org/abs/2509.12345) |  arXiv Preprint |   2025  |  |
 ### WAM
