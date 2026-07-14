@@ -49,10 +49,10 @@ TKY License · Last commit: [2026.3.21] · PRs Welcome · Stars [666]
 ### VLA
 | 论文标题 | 会议/期刊 | 年份 | 链接 |
 |---------|---------|------|------|
-| Beyond Attention Magnitude: Leveraging Inter-layer Rank Consistency for Efficient Vision-Language-Action Models( https://arxiv.org/abs/2603.24941) | arXiv Preprint | 2025 |  |
-| SP-VLA: A  JOINT MODEL SCHEDULING AND TOKEN PRUNING APPROACH FOR VLA  MODEL  ACCELERATION(https://arxiv.org/abs/2506.12723) | ICLR | 2025 |      |
-| Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning(https://icml.cc/virtual/2026/poster/65503) | ICML | 2026 |      |
-| Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models(https://ieeexplore.ieee.org/abstract/document/11560913) | IEEE Robotics and Automation Letters   |  2026  |    |
+| Beyond Attention Magnitude: Leveraging Inter-layer Rank Consistency for Efficient Vision-Language-Action Models( https://arxiv.org/abs/2603.24941) | arXiv Preprint | 2025 | 挑战高注意力 token 更重要的默认假设，用层间秩一致性 (Kendall τ) 动态判断何时该信任注意力，实现 78% token 削减的同时性能反升 6%。  |
+| SP-VLA: A  JOINT MODEL SCHEDULING AND TOKEN PRUNING APPROACH FOR VLA  MODEL  ACCELERATION(https://arxiv.org/abs/2506.12723) | ICLR | 2025 | 引入轻量级生成器，通过协同模型调度实现频率自适应执行；空间-语义双感知标记剪枝方法，将标记划分为空间型和语义型，并根据其双感知重要性进行剪枝以加速VLA推理 |
+| Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning(https://icml.cc/virtual/2026/poster/65503) | ICML | 2026 | SAG提出了一种动态适应的、参数化的、“全包含复用”的实时扩散剪枝器 |
+| Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models(https://ieeexplore.ieee.org/abstract/document/11560913) | IEEE Robotics and Automation Letters   |  2026  |   TEAM-VLA通过相似度驱动的令牌扩展将稀疏视觉-语言线索重建为密集前景区域，提升上下文的完整性。再以动作引导的软二分法合并压缩深层令牌，有效降低冗余度。全程无需训练、无需跨帧缓存，且语言与动作令牌完整保留  |
 | ACTION-AWARE DYNAMIC PRUNING FOR EFFICIENT VISION-LANGUAGE-ACTION MANIPULATION( https://iclr.cc/virtual/2026/poster/10008304) |   ICLR   |  2026     |       |
 | Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs(https://arxiv.org/abs/2605.13778) |  arXiv Preprint     |    2026    |    	    |
 | LA4VLA: Learning to Act without Seeing via Language-Action Pretraining(https://arxiv.org/abs/2606.27295) |    arXiv Preprint   |  2026    |      |
