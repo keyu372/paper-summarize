@@ -49,7 +49,10 @@ TKY License · Last commit: [2026.3.21] · PRs Welcome · Stars [666]
 ### 子主题一
 | 论文标题 | 会议/期刊 | 年份 | 代码 |
 |---------|---------|------|------|
-| Paper Title | CVPR | 2025 | [GitHub](链接) |
+| Beyond Attention Magnitude: Leveraging Inter-layer Rank Consistency for Efficient Vision-Language-Action Models
+ | / | 2025 | [GitHub](链接) |
+|SP-VLA: A  JOINT MODEL SCHEDULING AND TOKEN PRUNING APPROACH FOR VLA  MODEL  ACCELERATION
+|ICLR| 2025 |                |
 
 ### 子主题二
 | 论文标题 | 会议/期刊 | 年份 | 代码 |
