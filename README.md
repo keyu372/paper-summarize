@@ -50,15 +50,15 @@ TKY License · Last commit: [2026.3.21] · PRs Welcome · Stars [666]
 | 论文标题 | 会议/期刊 | 年份 | 链接 |
 |---------|---------|------|------|
 | Beyond Attention Magnitude: Leveraging Inter-layer Rank Consistency for Efficient Vision-Language-Action Models( https://arxiv.org/abs/2603.24941) | arXiv Preprint | 2025 |  |
-| SP-VLA: A  JOINT MODEL SCHEDULING AND TOKEN PRUNING APPROACH FOR VLA  MODEL  ACCELERATION | ICLR | 2025 |   https://arxiv.org/abs/2506.12723   |
-| Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning | ICML | 2026 |  https://icml.cc/virtual/2026/poster/65503    |
-| Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models | EEE Robotics and Automation Letters   |  2026  | https://ieeexplore.ieee.org/abstract/document/11560913   |
-| ACTION-AWARE DYNAMIC PRUNING FOR EFFICIENT VISION-LANGUAGE-ACTION MANIPULATION |   ICLR   |  2026     |    https://iclr.cc/virtual/2026/poster/10008304    |
-| Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs |  arXiv Preprint     |    2026    |    	https://arxiv.org/abs/2605.13778    |
-| LA4VLA: Learning to Act without Seeing via Language-Action Pretraining |    arXiv Preprint   |  2026    |   https://arxiv.org/abs/2606.27295   |
-| Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models | ICML | 2026 |  https://arxiv.org/abs/2602.00780    |
-| EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models|   NeurIPS  |  2025     |  https://proceedings.neurips.cc/    |
-| The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning|  arXiv Preprint |   2025  | https://arxiv.org/abs/2509.12345 |
+| SP-VLA: A  JOINT MODEL SCHEDULING AND TOKEN PRUNING APPROACH FOR VLA  MODEL  ACCELERATION(https://arxiv.org/abs/2506.12723) | ICLR | 2025 |      |
+| Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning(https://icml.cc/virtual/2026/poster/65503) | ICML | 2026 |      |
+| Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models(https://ieeexplore.ieee.org/abstract/document/11560913) | IEEE Robotics and Automation Letters   |  2026  |    |
+| ACTION-AWARE DYNAMIC PRUNING FOR EFFICIENT VISION-LANGUAGE-ACTION MANIPULATION( https://iclr.cc/virtual/2026/poster/10008304) |   ICLR   |  2026     |       |
+| Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs(https://arxiv.org/abs/2605.13778) |  arXiv Preprint     |    2026    |    	    |
+| LA4VLA: Learning to Act without Seeing via Language-Action Pretraining(https://arxiv.org/abs/2606.27295) |    arXiv Preprint   |  2026    |      |
+| Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models( https://arxiv.org/abs/2602.00780) | ICML | 2026 |     |
+| EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models(https://proceedings.neurips.cc/) |   NeurIPS  |  2025     |      |
+| The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning(https://arxiv.org/abs/2509.12345) |  arXiv Preprint |   2025  |  |
 ### WAM
 | 论文标题 | 会议/期刊 | 年份 | 链接 |
 |---------|---------|------|------|
